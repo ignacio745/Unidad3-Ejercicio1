@@ -1,4 +1,4 @@
-from ManejadorFacultadesOriginal import ManejadorFacultades
+from ManejadorFacultades import ManejadorFacultades
 from IngresadorTeclado import IngresadorTeclado
 
 
